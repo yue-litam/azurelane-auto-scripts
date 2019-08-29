@@ -1,11 +1,14 @@
 import numpy as np
 import cv2
+import wda
 
 
 def main():
     image_path = './screen.png'
     feature_path = './iphone_se_3.0.0/feature/map_ship_type_2.png'
 
+    c = wda.Client()
+    _ = c.screenshot(image_path)
     screen = cv2.imread(image_path)  # 加载图片
     screen_gray = cv2.cvtColor(screen, cv2.COLOR_BGR2GRAY)  # 灰度转换
     # screen_gray = cv2.imread(image_path, 0)
