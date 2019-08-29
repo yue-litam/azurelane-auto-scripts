@@ -12,7 +12,7 @@
 
 ## 使用方法
 
-本软件依赖WebDriverAgent及其Python Binding, Opencv-Python Binding, 请自行搜索安装。具体安装方法请参见(这里)[https://github.com/wangshub/wechat_jump_game/wiki/Android-和-iOS-操作步骤#二ios-手机操作步骤]
+本软件依赖WebDriverAgent及其Python Binding, Opencv-Python Binding, 请自行搜索安装。具体安装方法请参见[这里](https://github.com/wangshub/wechat_jump_game/wiki/Android-和-iOS-操作步骤#二ios-手机操作步骤)
 
 安装好依赖后运行
 
