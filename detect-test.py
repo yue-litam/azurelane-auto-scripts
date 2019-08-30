@@ -5,7 +5,7 @@ import wda
 
 def main():
     image_path = './screen.png'
-    feature_path = './iphone_se_3.0.0/feature/map_ship_type_2.png'
+    feature_path = './iphone_se_3.0.0/feature/ambush_encountered_detection.png'
 
     c = wda.Client()
     _ = c.screenshot(image_path)

@@ -348,13 +348,13 @@ specs = [
     battle_start_auto_fight_confirmation_spec,  # 开启自律模式的警告
     battle_post_view_new_character_confirmation,  # 战斗结束后获得新/四星/五星角色确认
     battle_post_view_new_character_lock_confirmation,  # 战斗结束后获得新角色锁定确认
+    map_move_ambush_encountered,  # 判断伏击舰队
     map_move_spec_boss,   # 判断boss舰队
     map_move_spec_ship4,  # 判断运输舰队
     map_move_spec_ship1,  # 判断侦查舰队
     map_move_spec_ship2,  # 判断航母舰队
     map_move_spec_ship3,  # 判断主力舰队
     map_move_spec_question_mark,  # 判断未知点
-    map_move_ambush_encountered,  # 判断伏击舰队
     battle_post_continue_spec,  # 战斗结束后判断获胜级别（S胜）
     battle_post_items_drop_spec,  # 战斗结束后获得物资
     battle_post_exp_spec,  # 战斗结束后获得经验
