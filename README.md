@@ -1,3 +1,7 @@
+# 阅读之前
+
+本仓库已存档，代码已迁移，后续不再维护，请移步的新仓库 [Repo - games-script](https://github.com/yue-litam/games-script).
+
 # 碧蓝航线辅助脚本
 
 本Repo最初直接fork自[UltimatePea/AzureLaneGame_AutomationScript](https://github.com/UltimatePea/AzureLaneGame_AutomationScript)，后在原Repo基础上做了资源的调整和部分判定逻辑的改动，遂对原fork仓库进行Archived、另行新建了一个Repo进行保存。<br/>
